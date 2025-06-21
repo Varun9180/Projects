@@ -2,7 +2,7 @@
 LIBRARY MANAGEMENT SYSTEM (C++)
 ==============================
 
-📌 Description:
+Description:
 ---------------
 This is a simple command-line based Library Management System written in C++. It allows users to manage books in a library with the following features:
 - Add new books
@@ -13,7 +13,7 @@ This is a simple command-line based Library Management System written in C++. It
 
 The system uses object-oriented programming (OOP) principles with `Book` and `Library` classes.
 
-🛠 Features:
+Features:
 ------------
 1. Add Book (ID, Title, Author)
 2. View All Books
@@ -22,7 +22,7 @@ The system uses object-oriented programming (OOP) principles with `Book` and `Li
 5. Sort Books by Title
 6. Exit
 
-🧾 How to Run:
+How to Run:
 --------------
 1. Open any C++ IDE (like Code::Blocks, Visual Studio, or VS Code).
 2. Copy the code into a `.cpp` file (e.g., `library_system.cpp`).
